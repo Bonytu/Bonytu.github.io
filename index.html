@@ -802,15 +802,15 @@
     
 
     $(function() {
-      $.get('https://app-router.leancloud.cn/2/route?appId=' + '2hg8yXqcsXbYeMmmuF6WgUmM-gzGzoHsz#<app_id>')
+      $.get('https://app-router.leancloud.cn/2/route?appId=' + '2hg8yXqcsXbYeMmmuF6WgUmM-gzGzoHsz')
         .done(function({ api_server }) {
           var Counter = function(method, url, data) {
             return $.ajax({
               method: method,
               url: 'https://' + api_server + '/1.1' + url,
               headers: {
-                'X-LC-Id': '2hg8yXqcsXbYeMmmuF6WgUmM-gzGzoHsz#<app_id>',
-                'X-LC-Key': '1FDvhic52RzGKxIw2EwBuhyr#<app_key>',
+                'X-LC-Id': '2hg8yXqcsXbYeMmmuF6WgUmM-gzGzoHsz',
+                'X-LC-Key': '1FDvhic52RzGKxIw2EwBuhyr',
                 'Content-Type': 'application/json',
               },
               data: data
