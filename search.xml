@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[数月来]]></title>
-    <url>%2F2019%2F01%2F31%2F%E6%95%B0%E6%9C%88%E6%9D%A5%2F</url>
-    <content type="text"><![CDATA[过去的半年发生了很多（对我来说的）大事，姑且用我最擅长的流水账记录一下。 TimeLine 2018.1，ACM半退役，在前队友wzh的引荐下，开始到航院高云龙老师那里搞维数约减/聚类。 2018.3，面对爆炸的GPA&amp;&amp;过不了的六级，开始想找工作。陆续大概投了网易、百度、商汤、头条、旷视、长亭、微软等，岗位基本是算法工程师/研究员之类的，结果： 网易：随手报的岗位大数据，发现考Hadoop，GG 微软：机试特别水的三道题，最难的应该是一道中途相遇背包。大概因为投的北京，简历被筛了；若是苏州或许能过。 头条、百度，内推完没人理我。 2018.5，由于工作找不到，还被whuang老师D了一通，开始试试能不能读研。抢救英语，报了雅思*3，实习攒的钱散光了；同时开始准备报夏令营，大概投了软件所、计算所、自动化所、上交计算机、南大人工智能、浙大计算机、人大计算机、清华软件、北航计算机。 2018.6，雅思成绩5.5*2，第3次在8月；收到旷视、商汤、长亭面试并获得offer；夏令营通过人大、计算所、北航；开始准备投二区的论文。一些细节： 关于实习： 三所公司的面试都是在线文档+问简历+算法题的模式，还算友好。 旷视似乎很喜欢出矩阵来回走的题目；商汤题目忘了；长亭最难的貌似是线段树+lazy。 最后在工资的诱惑下去了旷视。 关于夏令营： 北航时间冲突，放弃；计算所自行联系老师，方向不喜欢，放弃； 人大提前联系老师，现场发生了一些奇怪的事情，感觉机试面试设置略显敷衍，未获得保研资格。 上交联系到了对应老师，然而GPA指标被招生办卡住，未获得夏令营资格，但因此认识了可爱的女票张笨笨同学。 2018.8，雅思5.5*3，六级通过；前往北京入职旷视；开始准备九推，投了软件所、计算所、自动化所、信工所、上交计算机、南大人工智能、浙大计算机、清华软件、清华深圳、北大信工、北大软微、复旦计算机，国科大计算机学院。 2018.9，艰难的实习入门、九推、脱团。 复旦计算机获得学硕资格，英语面试+机试+面试，机试水题、单调栈、中途相遇，大约半小时的量。 清华软件获得工硕资格，机试+面试，机试水题、快速幂、简单dp，大约半小时的量；面试非常友好，比如问我如果被调剂为工硕，还过了浙大学硕选哪个…..事实上当天下午我就收到了浙大初审不通过的消息。 北大信工面试前有个老师联系我，给学硕，方向cv。 国科大面试前有个老师联系我，方向同上。 系统确认前有个软件所老师联系我（软件所看起来被咕咕咕得好惨哇）。 因为投的时间太迟，清华深圳和北大软微没寄到。 信工所冲突，放弃。 剩下的没通过。 2018.10，专心搬砖，清华帮势大的MEGVII，解决问题以秒计的恩哥，代码洁癖的LZH等等，学到了很多。 Summary感谢高老师、whuang、wzh、wdx、wnx、gw，抱抱张笨笨同学。]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>保研</tag>
-        <tag>实习</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F01%2F29%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
